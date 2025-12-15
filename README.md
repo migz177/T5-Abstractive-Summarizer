@@ -21,6 +21,6 @@ Check out the live demo at [sumtext.streamlit.app](https://sumtext.streamlit.app
 
 ## Model Info
 
-- Based on Google's T5 architecture
+- Based on Google's T5 architecture 
 - Fine-tuned specifically for abstractive summarization
-- Available on Hugging Face: `migz117/T5-Abstractive`
+- Available on Hugging Face: `migz117/T5-Abstractive` or https://huggingface.co/migz117/T5-Abstractive/
